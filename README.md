@@ -10,10 +10,10 @@ Using React, Node.js, Express & MongoDB. The App is called "Memories" and it is 
 
  ### Setup:
 Create a .env file in the following directory and store the following:
--->On client directory
-REACT_APP_GOOGLE_CLIENT_ID=Insert the valid google client id
--->On server directory
-CONNECTION_URL=Insert the correct connection URL for your MongoDB database
+ * In client directory
+   * REACT_APP_GOOGLE_CLIENT_ID=Insert the valid google client id
+ * In server directory
+   * CONNECTION_URL=Insert the correct connection URL for your MongoDB database
 - run ```npm i && npm start``` for both client and server side to start the app
 
  ### Key Concepts
